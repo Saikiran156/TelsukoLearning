@@ -5,7 +5,10 @@ beans
 maggiee
 pizza
 pasta
+rice 
+dal
+biriyani
 thank you
 
-. .
-)
+
+:)
